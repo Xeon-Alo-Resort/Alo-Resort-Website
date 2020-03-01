@@ -479,7 +479,7 @@ input[type="date" i] {
 -----------------------------------------------------------
 */
 .logo {
-  height: 100px;
+  height: 50px;
 }
 
 .logo > a{
@@ -491,7 +491,7 @@ input[type="date" i] {
   width: auto;
   max-height: 100%;
   vertical-align: middle;
-  color:white;
+  
 }
 
 
