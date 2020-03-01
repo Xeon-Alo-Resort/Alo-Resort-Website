@@ -1588,3 +1588,11 @@ body {padding-right: 0px !important;}
   border-radius: 10px;
   background-color: #ec1d25;
 }
+.room{
+    margin-top:30px;
+}
+.room .price {
+    font-size: 26px;
+    color: #000000;
+    position: relative;
+}
